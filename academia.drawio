@@ -559,10 +559,52 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aqn_Q9n-gfYKU8lkMoxB" name="Página-11">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2255" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-1" value="empresas de tecnologia" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-2" value="autoridades municipais" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-4" value="cidadão" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-5" value="sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-6" value="acessessar transporte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-7" value="gerenciar saneamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-8" value="analisar dados em tempo real" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-9" value="monitorar consumo de energia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-10" value="gerenciar iluminação pública" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-11" value="integrar senssores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-12" value="gerenciar segurança" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-13" value="solicitar serviços públicos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-14" value="gerenciar infraestruturas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21RJIV7DJXzIme6OjI4Z-15" value="gerenciar os serviços" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
